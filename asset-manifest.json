@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/palindrome-test/static/css/main.a48eb61b.css",
-    "main.js": "/palindrome-test/static/js/main.67dc7b92.js",
+    "main.js": "/palindrome-test/static/js/main.a3ae5ad0.js",
     "index.html": "/palindrome-test/index.html",
     "main.a48eb61b.css.map": "/palindrome-test/static/css/main.a48eb61b.css.map",
-    "main.67dc7b92.js.map": "/palindrome-test/static/js/main.67dc7b92.js.map"
+    "main.a3ae5ad0.js.map": "/palindrome-test/static/js/main.a3ae5ad0.js.map"
   },
   "entrypoints": [
     "static/css/main.a48eb61b.css",
-    "static/js/main.67dc7b92.js"
+    "static/js/main.a3ae5ad0.js"
   ]
 }
